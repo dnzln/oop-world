@@ -1,8 +1,8 @@
 /* Refer to https://github.com/OleksiyRudenko/a-tiny-JS-world for the task details
    Complete the below for code reviewers' convenience:
 
-   Code repository: https://github.com/dnzln/a-tiny-JS-world/tree/gh-pages
-   Web app: https://dnzln.github.io/a-tiny-JS-world/
+   Code repository: https://github.com/dnzln/oop-world/blob/master/index.js
+   Web app: https://dnzln.github.io/oop-world/
    */
 
 // ======== OBJECTS DEFINITIONS ========
